@@ -20,19 +20,19 @@ Additionally the resistors are placed near the arduino, so even a short cut wont
 
 What you need is:
 		
-		1 Arduino with Atmega 168 is strong enough
+		1x Arduino with Atmega 168 is strong enough
 		
-		2 RJ45 Connectors, i used a patchcable and cut it in two halves
+		2x RJ45 Connectors, i used a patchcable and cut it in two halves
 		
-		1 switch
+		1x switch
 		
-		8 Leds that light up well at 5V in row with an 1k resistor
+		8x Leds that light up well at 5V in row with an 1k resistor
 		
-		8 diodes of your favourite type, 1N4148 e.g.
+		8x diodes of your favourite type, 1N4148 e.g.
 		
-		8 resistors 560ohm
+		8x resistors 560ohm
 		
-		1 resistor 1k, you can also use two 560ohm resistors in a row in case you have to order resistors, then you only need 10 of the 560ohm type
+		1x resistor 1k, you can also use two 560ohm resistors in a row in case you have to order resistors, then you only need 10 of the 560ohm type
 		
 		a power source for the arduino
 		
