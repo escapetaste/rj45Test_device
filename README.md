@@ -19,6 +19,7 @@ To take care of the arduino-ports load, only one led at a time is being lit.
 Additionally the resistors are placed near the arduino, so even a short cut wont hurt the device.
 
 What you need is:
+		
 		1 Arduino with Atmega 168 is strong enough
 		
 		2 RJ45 Connectors, i used a patchcable and cut it in two halves
